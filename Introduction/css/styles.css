@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(76, 59, 82);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    margin-left: 18px;
+}
+
+a {
+    color: rgb(203, 0, 243);
+}
+
+body {
+    color: rgb(228, 13, 181);
+    font-family: "comic sans ms";
+}
+
+.mainpage {
+    background-color: rgb(89, 58, 94);
+
+    color: black;
+}
+
+#homeimage {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
